@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AL11NJ0SSTUCFey9acwLyEn/8KP0bB2ZxX9aKbFdeFkRzrGDCbSNf7U7oG1d7qW64DzcK93n9v/KEFKZpSwRNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FallenLands\\FallenLands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

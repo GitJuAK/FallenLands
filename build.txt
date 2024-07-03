@@ -1,0 +1,4 @@
+displayName = Fallen Lands
+author = Fallen Lands Team
+version = 0.0.1
+modReferences = CalamityMod, SubworldLibrary

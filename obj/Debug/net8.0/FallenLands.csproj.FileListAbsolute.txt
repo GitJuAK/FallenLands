@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\My Games\Terraria\tModLoader\ModSources\FallenLands\obj\Debug\net8.0\FallenLands.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\My Games\Terraria\tModLoader\ModSources\FallenLands\obj\Debug\net8.0\FallenLands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\My Games\Terraria\tModLoader\ModSources\FallenLands\obj\Debug\net8.0\FallenLands.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\My Games\Terraria\tModLoader\ModSources\FallenLands\obj\Debug\net8.0\FallenLands.AssemblyInfo.cs
+C:\Users\PC\Documents\My Games\Terraria\tModLoader\ModSources\FallenLands\obj\Debug\net8.0\FallenLands.csproj.CoreCompileInputs.cache

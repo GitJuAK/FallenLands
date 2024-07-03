@@ -1,0 +1,11 @@
+Items: {
+	ChargedFlower: {
+		DisplayName: Charged Flower
+		Tooltip: Be careful with the allergy!
+	}
+
+	SolarStaff: {
+		DisplayName: Solar Staff
+		Tooltip: Shoots beams of light
+	}
+}
