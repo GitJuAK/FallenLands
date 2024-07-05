@@ -15,7 +15,7 @@ namespace FallenLands.Subworlds
 
         public override List<GenPass> Tasks => new List<GenPass>()
         {
-            new StandardWorldGenPass()
+            new ExampleGenPass()
         };
 
         // Sets the time to the middle of the day whenever the subworld loads
