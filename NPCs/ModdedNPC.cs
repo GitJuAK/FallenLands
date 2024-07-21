@@ -1,4 +1,3 @@
-﻿using CalamityMod;
 using FallenLands.Items;
 using Terraria;
 using Terraria.GameContent.ItemDropRules;
